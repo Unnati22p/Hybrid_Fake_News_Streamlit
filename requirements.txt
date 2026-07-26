@@ -6,7 +6,7 @@ torchvision==0.18.1
 transformers==4.44.2
 open_clip_torch==2.26.1
 
-Pillow==11.2.1
+Pillow==10.3.0
 
 numpy==1.26.4
 pandas==2.2.2

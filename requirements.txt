@@ -1,17 +1,19 @@
 streamlit==1.37.0
 
-torch>=2.2.0
-torchvision>=0.17.0
+torch==2.3.1
+torchvision==0.18.1
 
-transformers>=4.44.0
-open_clip_torch
+transformers==4.44.2
+open_clip_torch==2.26.1
 
-Pillow
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
+Pillow==10.4.0
+
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+
+matplotlib==3.9.1
+seaborn==0.13.2
 
 tqdm
 requests
